@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: e749347de75a3294399cdb41448af61e
+  - enabled: 1
     path: Assets/Scenes/ARscene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/shoapFIlter.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
